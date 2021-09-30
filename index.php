@@ -8,7 +8,7 @@
 </head>
 <body>
 
-stašova mama je frajerka 
+valeria goat 
     
 </body>
 </html>
