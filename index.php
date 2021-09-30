@@ -8,7 +8,7 @@
 </head>
 <body>
 
-zmena
+stašova mama je frajerka 
     
 </body>
 </html>
